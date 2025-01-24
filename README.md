@@ -3,6 +3,11 @@
 
 ## Smart Contracts
 
+- Git Clone
+``` bash
+git clone https://github.com/ProofOfMike/bitcoin-stacks-clarity-smart-contract.git
+```
+
 - time-locked-wallet.clar
 ```
 ;; traits
